@@ -1,0 +1,16 @@
+Utilizado para ajudar com as dependencias no desenvolvimento 
+
+Para inicair npm rodar comando 
+    npm init 
+Depois para instalar Bundler
+    npm i parcel-bundler
+Para compilar ir em package 
+    Debug
+        Start
+
+
+
+Como instrução quando sem Tem o typeScript instaldo atraves do comando:
+    tsc index.ts
+E realizado a compilação do arquivo e é gerado um arquivo .js
+Mas estamos utilizando um bundler no caso o parcel para ajudar com as dependencias 
